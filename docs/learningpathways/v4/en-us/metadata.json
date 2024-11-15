@@ -487,6 +487,15 @@
           "Source": "Microsoft",
           "SubCategories": []
         }
+        {
+          "Id": "b471cbf3-9c6a-46d1-8331-b8fde44e1e31",
+          "Name": "Windows 11",
+          "Image": "images/categories/outlook.png",
+          "TechnologyId": "58847f9a-3144-453e-a10e-bc1c00bc3faa",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
       ]
     },
     {
