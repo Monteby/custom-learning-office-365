@@ -289,15 +289,6 @@
           "SubCategories": []
         },
         {
-          "Id": "d0138b8d-380a-4010-884d-efc1647c7711",
-          "Name": "New Outlook",
-          "Image": "images/categories/outlook.png",
-          "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
           "Id": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
           "Name": "OneDrive",
           "Image": "images/categories/onedrive.png",
@@ -486,18 +477,10 @@
           "SubjectId": "",
           "Source": "Microsoft",
           "SubCategories": []
-        },
-        {
-          "Id": "b471cbf3-9c6a-46d1-8331-b8fde44e1e31",
-          "Name": "Windows 11",
-          "Image": "images/categories/outlook.png",
-          "TechnologyId": "58847f9a-3144-453e-a10e-bc1c00bc3faa",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
+        }
       ]
-        {
+    },
+    {
       "Id": "cf28bc20-ee23-4453-954e-43cc43af67b6",
       "Name": "Adoption Tools",
       "Image": "",
