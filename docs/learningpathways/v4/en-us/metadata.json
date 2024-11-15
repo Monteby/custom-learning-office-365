@@ -289,6 +289,15 @@
           "SubCategories": []
         },
         {
+          "Id": "d0138b8d-380a-4010-884d-efc1647c7711",
+          "Name": "New Outlook",
+          "Image": "images/categories/outlook.png",
+          "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
           "Id": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
           "Name": "OneDrive",
           "Image": "images/categories/onedrive.png",
