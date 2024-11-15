@@ -129,6 +129,11 @@
       "Name": "Outlook",
       "Subjects": []
     },
+      {
+      "Id": "17e7527e-23e5-4697-b09b-d9b5a25ec05d",
+      "Name": "New Outlook",
+      "Subjects": []
+    },
     {
       "Id": "c9886f47-0928-4408-a2f7-c0328bca7122",
       "Name": "Viva Goals",
@@ -284,6 +289,15 @@
           "Name": "Outlook",
           "Image": "images/categories/outlook.png",
           "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "301acefd-4b27-4a2c-a240-fb27687c5528",
+          "Name": "New Outlook",
+          "Image": "images/categories/outlook.png",
+          "TechnologyId": "17e7527e-23e5-4697-b09b-d9b5a25ec05d",
           "SubjectId": "",
           "Source": "Microsoft",
           "SubCategories": []
@@ -480,34 +494,6 @@
         }
       ]
     },
-    {
-      "Id": "cf28bc20-ee23-4453-954e-43cc43af67b6",
-      "Name": "Adoption Tools",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Microsoft",
-      "SubCategories": [
-        {
-          "Id": "9d9a29c7-72fe-475e-9dd1-d999259d02cb",
-          "Name": "Tools",
-          "Image": "images/categories/toolkit.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "281c0108-6e20-4fc3-9459-ba267857498e",
-          "Name": "Admin Success Center",
-          "Image": "images/categories/set-up-Microsoft-365-learning-pathway.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        }
-      ]
-    }
   ],
   "Audiences": [
     {
